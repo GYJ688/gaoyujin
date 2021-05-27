@@ -1,0 +1,17 @@
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '111');
+INSERT INTO `login` (`name`, `password`) VALUES (NULL, NULL);
+INSERT INTO `login` (`name`, `password`) VALUES (NULL, NULL);
+INSERT INTO `login` (`name`, `password`) VALUES (NULL, NULL);
+INSERT INTO `login` (`name`, `password`) VALUES (NULL, NULL);
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11111111111', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11111', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('', '');
+INSERT INTO `login` (`name`, `password`) VALUES ('', '');
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
+INSERT INTO `login` (`name`, `password`) VALUES ('11', '11');
