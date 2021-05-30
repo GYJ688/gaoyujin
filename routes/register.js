@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
 });
 
 router.get('/', function(req, res, next) {
-  res.render('register.html');
+  res.render('register');
 });
 
 // connection.connect();

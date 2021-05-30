@@ -27,7 +27,7 @@ router.post('/login',(req,res) =>{
       console.log(error)
       throw error
   }else{
-      res.redirect('/furniture');
+      res.redirect('/index');
       console.log('login success');
       console.log(results)
   }
